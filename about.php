@@ -20,19 +20,25 @@
         <!-- Intro Content -->
         <div class="row">
         <div class="col-md-6">
-        <img class="img-responsive" src="images/7fb1f193435815a86c8484f82b9589e1 - Copy.jpg" alt="">
+        <img class="img-responsive" src="images/onlineclassroom.jpg" alt="">
         </div>
         <div class="col-md-6">
         <h2>ABOUT CLOUD CLASSROOMS</h2>
         <p>The <strong>“Cloud Classrooms”</strong> Website (web based application) is useful for the
-students, faculty, guest whomever likes to learn from web using E-Learn
+students, faculty to learn from web using E-Learn
 (Videos), as well Check result, schedules of assessment and all that task like
 event, news, students can find out list of fresh courses offered by them and
 admission procedure, discussion forum, fee structure etc. without going to
-institute. It provides the facility to the students or guest to have complete
+institute. It provides the facility to the students to have complete
 information about the institute.</p><br>
 <p>
-In this application, student can attend his\her missed classes from e-learn.</p>
+In this application, student can attend his\her missed classes from e-learn.</p><br>
+
+                            Team - members:<br>
+							Saloni Singla  : IIB2019004<br>
+							Devang Bharti : IIB2019020<br>
+							Atithi Kumari : IIB2019026<br>
+                            Anjali Kumari : IIB2019037<br>
         </div>
         </div>
         <!-- /.row -->

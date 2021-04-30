@@ -12,19 +12,19 @@
 	<!-- Wrapper for slides -->
 	<div class="carousel-inner">
 		<div class="item">
-			<div class="fill" style="background-image:url('images/1900x10802.png');"></div>
+			<div class="fill" style="background-image:url('images/i1.png');"></div>
 			<div class="carousel-caption">
 				<h2 style="color: black;"> Making Learning Easy</h2>
 			</div>
 		</div>
 		<div class="item active">
-			<div class="fill" style="background-image:url('images/1900x10801.png');"></div>
+			<div class="fill" style="background-image:url('images/i2.png');"></div>
 			<div class="carousel-caption">
 				<a href="registrationform"><h2 style="color: white;">Register Today</h2></a>
 			</div>
 		</div>
 		<div class="item">
-			<div class="fill" style="background-image:url('images/1900x10803.png');"></div>
+			<div class="fill" style="background-image:url('images/i3.png');"></div>
 			<div class="carousel-caption">
 				<a href="takeassessment"><h2 style="color: white; ">Take Assessment</h2>
                 </div>
@@ -60,12 +60,12 @@
 					<ul style="list-style-type:disc">
 						<li>
 							<p>The “Cloud Classrooms” Website (web based application) is useful for the
-							students, faculty, guest whomever likes to learn from web using E-Learn
-							(Videos), as well Check result, schedules of assessment and all that task like
+							students, faculty to learn from web using E-Learn(Videos), as well Check result, schedules of assessment and all that task like
 							event, news, students can find out list of fresh courses offered by them and
 							admission procedure, discussion forum, fee structure etc. without going to
-							institute. It provides the facility to the students or guest to have complete
+							institute. It provides the facility to the students to have complete
 							information about the institute.
+							<br>
 						</p>
 					</li>
 					
@@ -169,7 +169,7 @@
 			<h2 class="page-header">CLOUD CLASSROOMS</h2>
 		</div>
 		<div class="col-md-6">
-			<p>The CLOUD CLASSROOMS by <strong>VISHAL MATHUR 146891645</strong> includes:</p>
+			<p>The CLOUD CLASSROOMS by <strong>TEAM NUMBER - 15</strong> includes:</p>
 			<ul>
 				<li><strong>Bootstrap v3.3.7</strong>
 				</li>
@@ -182,7 +182,7 @@
 			
 		</div>
 		<div class="col-md-6">
-			<img class="img-responsive" src="images/7fb1f193435815a86c8484f82b9589e1.jpg" alt="">
+			<img class="img-responsive" src="images/online.jpg" alt="">
 		</div>
 	</div>
 	
